@@ -1,13 +1,13 @@
 package files
 
 import (
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/cmd_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/docs_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/internal_files/app_files/model_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/internal_files/app_files/repository_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/internal_files/app_files/usecase_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/internal_files/delivery_files/connector_files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files/internal_files/delivery_files/http_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/cmd_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/docs_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/internal_files/app_files/model_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/internal_files/app_files/repository_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/internal_files/app_files/usecase_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/internal_files/delivery_files/connector_files"
+	"github.com/BoanergesJunior/go-project-template/cmd/files/internal_files/delivery_files/http_files"
 )
 
 func CreateFiles() {

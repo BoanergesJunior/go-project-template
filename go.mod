@@ -1,4 +1,4 @@
-module github.com/BoanergesJunior/go-project-template.git
+module github.com/BoanergesJunior/go-project-template
 
 go 1.21
 

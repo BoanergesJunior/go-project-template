@@ -3,7 +3,7 @@ package cmd_files
 import (
 	"os"
 
-	"github.com/BoanergesJunior/go-project-template.git/config"
+	"github.com/BoanergesJunior/go-project-template/config"
 )
 
 func CreateMain() {

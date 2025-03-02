@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/BoanergesJunior/go-project-template.git/cmd/files"
-	"github.com/BoanergesJunior/go-project-template.git/cmd/folders"
+	"github.com/BoanergesJunior/go-project-template/cmd/files"
+	"github.com/BoanergesJunior/go-project-template/cmd/folders"
 )
 
 func CreateFolders() {

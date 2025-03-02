@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/BoanergesJunior/go-project-template.git/cmd/utils"
-	"github.com/BoanergesJunior/go-project-template.git/config"
+	"github.com/BoanergesJunior/go-project-template/cmd/utils"
+	"github.com/BoanergesJunior/go-project-template/config"
 	"github.com/spf13/cobra"
 )
 
